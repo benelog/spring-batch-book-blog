@@ -1,5 +1,6 @@
 site:
   title: 스프링 배치 책 데모 버전
+  start_page: demo::index.adoc
 content:
   sources:
   - url: https://github.com/wikibook/springbatch.git

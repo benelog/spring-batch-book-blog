@@ -2,3 +2,4 @@ build/
 .idea/
 .envrc
 node_modules/
+build.yml
